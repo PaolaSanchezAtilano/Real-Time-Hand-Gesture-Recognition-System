@@ -14,14 +14,14 @@ The system detects hand landmarks through the webcam and classifies specific ges
   - Thumbs up
 - Live visual feedback on screen
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - OpenCV
 - MediaPipe
 - CVzone
 
-## 📦 Installation
+## Installation
 
 Install dependencies:
 
